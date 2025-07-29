@@ -24,6 +24,6 @@ Este módulo combina todo lo aprendido sobre modelos de IA generativa con IBM Gr
 
 Puedes ver el laboratorio interactivo en Google Colab:
 
-👉 LABORATORIO 1: [Abrir notebook en Colab]([https://colab.research.google.com/tu-enlace-aqui](https://colab.research.google.com/drive/1e1n7QjlcwigctN_FmUwy5KxEZXuDFeg0?usp=sharing))
+👉 LABORATORIO 1: [Abrir notebook en Colab](https://colab.research.google.com/drive/1e1n7QjlcwigctN_FmUwy5KxEZXuDFeg0?usp=sharing))
 
 
